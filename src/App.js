@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <Provider store={store} >
-          Project here
+          <div>Project here</div>
       </Provider>
     );
   }
